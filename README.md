@@ -20,4 +20,6 @@ Tapping the card flips between the two.
 
 - [x] Push code to GitHub
 
+https://github.com/raphael-tech/flashcardlab2/blob/main/giflab2.gif?raw=true
+<img src="https://github.com/raphael-tech/flashcardlab2/blob/main/giflab2.gif?raw=true" width="250" />
 
