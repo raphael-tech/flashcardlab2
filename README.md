@@ -20,6 +20,8 @@ Tapping the card flips between the two.
 
 - [x] Push code to GitHub
 
-https://github.com/raphael-tech/flashcardlab2/blob/main/giflab2.gif?raw=true
+- [x] Create the GIF and add it in the README file
+
 <img src="https://github.com/raphael-tech/flashcardlab2/blob/main/giflab2.gif?raw=true" width="250" />
+
 
